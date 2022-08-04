@@ -46,7 +46,7 @@
 > Worst Case: **[27,22,18,16,6,2]** Büyükten küçüğe bir sıralama olduğu için her seferinde en yüksek n ve n-t sayılarıyla işleme devam edilir. Bu da worst case senaryoyu oluşturur. 
 >
 > Best Case: **[2,6,16,18,22,27]** Dizinin doğru sıralamasına sahip olduğu senaryo ise best case senaryodur. Herhangi bir adım gerekmeden dizi doğru sıradadır. 
-4.	Diz1i sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+4.	Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 >18 sayısı ortada yer alan bir değer olduğu için average case kapsamına girer. 
 
